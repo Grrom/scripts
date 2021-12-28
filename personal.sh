@@ -1,6 +1,7 @@
 #!/bin/bash
 export EXTERNAL="/run/media/jerome/MANJARO"
 export MY_SCRIPTS=/home/jerome/scripts/
+export MY_CODE=/home/jerome/code/
 
 export PATH="$PATH:~/code/dart/channels/stable/bin"
 export PATH="$PATH":"$HOME/code/dart/channels/stable/bin/cache/dart-sdk/bin"
