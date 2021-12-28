@@ -1,0 +1,89 @@
+{
+  "books": [
+    "clean code",
+    "the pragmatic programer",
+    "refactoring",
+    "clean architecture",
+    "lord of the flies",
+    "crime and punishment",
+    "the dip",
+    "the power of habit"
+  ],
+  "commands": [
+    "docker run -it --name for_school --user jeromearch --net=host --env='DISPLAY' --volume='$HOME/.Xauthority:/home/jeromearch/.Xauthority:rw' school_arch"
+  ],
+  "links": {
+    "Boiling waters psd": "https://drive.google.com/drive/folders/1xlttNLeBLVcN5abEO9zYMbH6O35k4WV2",
+    "Boiling waters jpeg": "https://drive.google.com/drive/folders/1I7F0ryrBdXzTmEz3Ou7x1OKGg39qSNoP",
+    "Boiling waters pdf": "https://drive.google.com/file/d/1o_-ddWBbexwH9tiizE9je-pGwiD1B0TM/view",
+    "Boiling waters approved": "https://drive.google.com/drive/folders/1zB0IHtw5Azamqy8osb_oHdyQBChZ9Wn6",
+    "Boiling waters api": "https://dating.boilingwaters.rightvalley.com/graphql",
+    "certificate": "https://letsencrypt.org/certs/lets-encrypt-r3.pem"
+  },
+  "movie": [
+    "when we were kings",
+    "tenet",
+    "brave heart"
+  ],
+  "Lofi": [
+    "daffodils guustavv",
+    "sunlight bay loafy building blumen",
+    "rest says phobe",
+    "when clouds fade away aethers chipac",
+    "going south blumen",
+    "when you were here harris heller",
+    "swimmingly dylan sitts",
+    "hold me vivek",
+    "put it down amber spill",
+    "solarity guustavv",
+    "morning chirping guustavv timothy",
+    "blue boi lakey inspired",
+    "I play colors just normal",
+    "imaginary friends oomiee",
+    "onetimeagain justnormal",
+    "raingsnow chilledcat",
+    "scootaloo jobli",
+    "ricochet oomie",
+    "dark matter harris heller",
+    "lonely night lofi geek",
+    "cherry blossom skies harris heller",
+    "too tired smartface",
+    "clouds above gustaav",
+    "gomennasai lofi geek",
+    "oyasyminasai lofigeek",
+    "augment ocean jams",
+    "Burn withing sight dylan sitts"
+  ],
+  "Music": {
+    "Demxentia": "I don't mind"
+  },
+  "AnimeSchedule": {
+    "sunday": [
+      ""
+    ],
+    "monday": [
+      "mushoku tensei"
+    ],
+    "tuesday": [
+      "Senpai ga Uzai Kouhai no hanashi"
+    ],
+    "wednesday": [
+      ""
+    ],
+    "thursday": [
+      "Komi san wa komyushou desu"
+    ],
+    "friday": [
+      "saihate no paladin"
+    ],
+    "saturday": [
+      "Ousama Ranking",
+      "blue period",
+      "Douki"
+    ]
+  },
+  "Core Values": [
+    "do things ASAP",
+    "do things properly"
+  ]
+}
