@@ -1,9 +1,9 @@
-**hard dependencies**    
+**required**    
 - rofi    
 - xbindkeys    
 - ffmpeg    
 
-**easily replaceable dependencies**    
+**required too but easily replaceable**    
 - code    
 - notify-send    
 - lvim    
@@ -11,5 +11,6 @@
 
 
 *note*    
-don't forget to symlink the xbindkeysrc to home
+- symlink the xbindkeysrc to home    
+- source main.sh in .bashrc
 
