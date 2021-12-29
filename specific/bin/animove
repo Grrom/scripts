@@ -1,0 +1,40 @@
+#!/bin/bash
+mountexternal
+
+ANIMENAME=$1
+WORDS_TO_TRIM1=$2
+WORDS_TO_TRIM2=$3
+
+# for movies -- this is too ugly haha i will yeet this soon
+if [[ "$ANIMENAME" == "movies" ]]
+then 
+  for f in *.mp4; do mv -- "$f" "movies$f";
+  done
+fi;
+
+ANIME_FOLDER_NAME="${ANIMENAME//_/ }"
+
+DIR="${EXTERNAL}/anime/anime/${ANIME_FOLDER_NAME}"
+
+mkdir "$DIR" 
+mv *"$ANIMENAME"* "$DIR"
+
+cd "$DIR"
+
+if [ -n "$WORDS_TO_TRIM2" ]
+then
+for f in *"$ANIMENAME"*; do mv -- "$f" "${f/$WORDS_TO_TRIM2/}"; done
+fi
+
+if [ -n "$WORDS_TO_TRIM1" ]
+then
+for f in *"$ANIMENAME"*; do mv -- "$f" "${f/$WORDS_TO_TRIM1/}"; done
+fi
+cd ..
+# mv "$ANIMENAME" "${ANIMENAME//_/ }"
+# while read WORDS_TO_TRIM; do
+#     for f in *.mp4; do mv -- "$f" "${f/$WORDS_TO_TRIM/}"; done
+#     if [ "$WORDS_TO_TRIM" = "done" ] 
+#     then break
+#     fi
+#   done 

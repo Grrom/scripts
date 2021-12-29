@@ -1,0 +1,6 @@
+#!/bin/bash
+if [ $(externalismounted) == false ];
+then 
+  echo "mounting $EXTERNAL..."
+  echo "$(udisksctl mount -b /dev/sda3)"
+fi

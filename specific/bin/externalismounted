@@ -1,0 +1,6 @@
+#!/bin/bash
+ISMOUNTED=$(ls $EXTERNAL | wc -l)
+if [[ $ISMOUNTED == 0 ]]; 
+then echo false;
+else echo true;
+fi
