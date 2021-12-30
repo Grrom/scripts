@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "sourced" >> ~/log.txt
 
 # ALIASES
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"

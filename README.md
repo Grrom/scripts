@@ -1,16 +1,16 @@
-**required**    
+**Dependencies**    
 - rofi    
 - xbindkeys    
-- ffmpeg    
-
-**required too but easily replaceable**    
 - code    
-- notify-send    
-- lvim    
 - nvim    
 
+**Optional Dependencies**
+- notify-send    
+- ffmpeg    
+- lvim    
 
-*note* (check the install script that does all this automatically inside utils/)    
+
+_**Note**_ (check the install script that does all this automatically inside utils/)    
 - symlink the .xbindkeysrc to home    
 - symlink the .xprofile to home    
 - source main.sh in .bashrc
