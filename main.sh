@@ -1,10 +1,5 @@
 #!/bin/bash
-
-export MY_SCRIPTS=$HOME/scripts/
-export MY_CODE=$HOME/code/
-
-export PATH="$MY_SCRIPTS""bin:$PATH"
-
+echo "sourced" >> ~/log.txt
 
 # ALIASES
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"

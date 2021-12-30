@@ -11,6 +11,7 @@
 
 
 *note*    
-- symlink the xbindkeysrc to home    
+- symlink the .xbindkeysrc to home    
+- symlink the .xprofile to home    
 - source main.sh in .bashrc
 
