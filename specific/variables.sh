@@ -8,3 +8,6 @@ export EXTERNAL="/run/media/jerome/MANJARO"
 
 export PATH="$MY_SCRIPTS""specific/bin:$PATH"
 
+export BROWSER=firefox
+
+

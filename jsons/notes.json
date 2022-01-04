@@ -18,15 +18,29 @@
     "Boiling waters api": "https://dating.boilingwaters.rightvalley.com/graphql",
     "certificate": "https://letsencrypt.org/certs/lets-encrypt-r3.pem"
   },
-  "movie": ["when we were kings", "tenet", "brave heart"],
+  "movie": [
+    "when we were kings",
+    "tenet",
+    "brave heart"
+  ],
   "AnimeSchedule": {
     "sunday": [],
-    "monday": [],
+    "monday": [
+      "kimetsu no yaiba"
+    ],
     "tuesday": [],
     "wednesday": [],
     "thursday": [],
-    "friday": ["saihate no paladin"],
-    "saturday": ["Ousama Ranking"]
+    "friday": [
+      "saihate no paladin"
+    ],
+    "saturday": [
+      "Ousama Ranking"
+    ]
   },
-  "My Core Values": ["honesty", "resolution", "moderation"]
+  "My Core Values": [
+    "honesty",
+    "resolution",
+    "moderation"
+  ]
 }
