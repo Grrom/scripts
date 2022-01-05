@@ -8,7 +8,7 @@ alias xbind="killall xbindkeys; xbindkeys"
 
 
 # SOURCING STUFF
-source $MY_SCRIPTS/utils/quick_edits.sh
+source $MY_SCRIPTS/quick_edits.sh
 
 source $MY_SCRIPTS/specific/main.sh
 
