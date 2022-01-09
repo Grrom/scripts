@@ -24,13 +24,18 @@
     "brave heart"
   ],
   "AnimeSchedule": {
+    "binge": "gintama",
     "sunday": [
-      "takagi san"
+      "akebi",
+      "sono bisque doll wa koi wo suru"
     ],
     "monday": [
-      "kimetsu no yaiba"
+      "kimetsu no yaiba",
+      "AOT"
     ],
-    "tuesday": [],
+    "tuesday": [
+      ""
+    ],
     "wednesday": [
       "Hakozome"
     ],
@@ -39,7 +44,8 @@
       "Ousama Ranking"
     ],
     "saturday": [
-      "slow loop"
+      "slow loop",
+      "takagi san"
     ]
   }
 }
