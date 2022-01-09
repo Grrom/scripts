@@ -24,23 +24,22 @@
     "brave heart"
   ],
   "AnimeSchedule": {
-    "sunday": [],
+    "sunday": [
+      "takagi san"
+    ],
     "monday": [
       "kimetsu no yaiba"
     ],
     "tuesday": [],
-    "wednesday": [],
+    "wednesday": [
+      "Hakozome"
+    ],
     "thursday": [],
     "friday": [
-      "saihate no paladin"
+      "Ousama Ranking"
     ],
     "saturday": [
-      "Ousama Ranking"
+      "slow loop"
     ]
-  },
-  "My Core Values": [
-    "honesty",
-    "resolution",
-    "moderation"
-  ]
+  }
 }
