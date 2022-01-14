@@ -1,5 +1,5 @@
 #!/bin/bash
-mountexternal
+./jjmountexternal
 
 ANIMENAME=$1
 WORDS_TO_TRIM1=$2

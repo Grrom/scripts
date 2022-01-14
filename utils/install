@@ -1,0 +1,8 @@
+#!/bin/bash
+SCRIPT_PATH=`dirname $(readlink -f "$0")`
+DIR_PATH=${SCRIPT_PATH%/*}
+
+ln "$DIR_PATH/.xprofile" ~ 
+ln "$DIR_PATH/.xbindkeysrc" ~
+
+echo "source $DIR_PATH/main.sh" >> ~/.bashrc

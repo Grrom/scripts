@@ -4,5 +4,3 @@ if [[ -z "$1" ]]; then
 else
   cd $MY_SCRIPTS && git add . && git commit -am $1 && git push
 fi
-
-

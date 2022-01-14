@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $(externalismounted) == false ];
+if [ $(./jjexternalismounted) == false ];
 then 
   echo "mounting $EXTERNAL..."
   echo "$(udisksctl mount -b /dev/sda3)"
