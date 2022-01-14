@@ -1,3 +1,4 @@
+//#!/usr/bin/node
 // sends json content to standard output
 JSON.parse(
   require("fs").readFileSync(

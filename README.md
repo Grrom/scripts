@@ -4,7 +4,7 @@
 - code    
 - nvim    
 
-**Optional Dependencies**
+**Easily Replaceable Dependencies**
 - notify-send    
 - ffmpeg    
 - lvim    
