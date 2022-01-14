@@ -47,6 +47,15 @@
     m:0x8 + c:33
     Alt + p
 
+"$MY_SCRIPTS/rofi_menus/browser_launcher.sh"
+    m:0x8 + c:56
+    Alt + b
+
+"firefox"
+  m:0x40 + c:56
+    Mod4 + b
+
+
 #"xterm -geom 50x20+20+20"
 #   Shift+Mod2+alt + s
 #
