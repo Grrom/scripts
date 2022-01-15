@@ -11,5 +11,5 @@ choice=$(
 if [[ -n "$choice" ]] 
   then
     notify-send "Code: "$choice
-    code $MY_CODE$choice
+    code "$MY_CODE/$choice"
 fi

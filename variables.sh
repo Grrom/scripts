@@ -1,4 +1,5 @@
 #!/bin/bash
 export MY_SCRIPTS=$HOME/scripts
 export MY_CODE=$HOME/code
-export PATH="$MY_SCRIPTS""bin:$PATH"
+export PATH="$PATH":"$MY_SCRIPTS/bin"
+export PATH="$PATH":"$MY_SCRIPTS/specific/bin"
