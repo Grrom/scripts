@@ -1,0 +1,6 @@
+#!/bin/bash
+dir="$HOME/Videos/screen_grabs"
+mkdir -p $dir
+count=$(ls $dir|wc -l)
+ffmpeg -f x11grab -video_size 1920x1080 -framerate 20 -i "$DISPLAY.0+1600,0" "$dir/screen_grab_$count.mkv"
+
