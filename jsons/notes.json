@@ -14,10 +14,12 @@
   "links": {
     "Boiling waters psd": "https://drive.google.com/drive/folders/1xlttNLeBLVcN5abEO9zYMbH6O35k4WV2",
     "Boiling waters jpeg": "https://drive.google.com/drive/folders/1I7F0ryrBdXzTmEz3Ou7x1OKGg39qSNoP",
-    "Boiling waters pdf": "https://drive.google.com/file/d/1o_-ddWBbexwH9tiizE9je-pGwiD1B0TM/view",
+    "Boiling waters pdf old": "https://drive.google.com/file/d/1o_-ddWBbexwH9tiizE9je-pGwiD1B0TM/view",
+    "Boiling waters pdf": "https://drive.google.com/file/d/1-bkg-rRe9WPLfMsZexTHisZFTc1dPZ6C/view",
     "Boiling waters approved": "https://drive.google.com/drive/folders/1zB0IHtw5Azamqy8osb_oHdyQBChZ9Wn6",
     "Boiling waters api": "https://dating.boilingwaters.rightvalley.com/graphql",
-    "certificate": "https://letsencrypt.org/certs/lets-encrypt-r3.pem"
+    "certificate": "https://letsencrypt.org/certs/lets-encrypt-r3.pem",
+    "who is this": "https://twitter.com/_doswpfvousaime"
   },
   "movie": [
     "when we were kings",
@@ -27,28 +29,21 @@
   "AnimeSchedule": {
     "binge": "gintama",
     "sunday": [
-      "akebi",
       "sono bisque doll wa koi wo suru"
     ],
     "monday": [
       "kimetsu no yaiba",
       "AOT"
     ],
-    "tuesday": [
-      "barao souretsu"
-    ],
+    "tuesday": [],
     "wednesday": [
       "tensai ouji"
     ],
-    "thursday": [
-      "korosi ai",
-      "Hakozome"
-    ],
+    "thursday": [],
     "friday": [
       "Ousama Ranking"
     ],
     "saturday": [
-      "slow loop",
       "takagi san"
     ]
   }
