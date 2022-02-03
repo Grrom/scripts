@@ -24,7 +24,8 @@
   "movie": [
     "when we were kings",
     "tenet",
-    "brave heart"
+    "brave heart",
+    "the octopus teacher"
   ],
   "AnimeSchedule": {
     "binge": "gintama",
@@ -35,7 +36,9 @@
       "kimetsu no yaiba",
       "AOT"
     ],
-    "tuesday": [],
+    "tuesday": [
+      "sabikui bisco"
+    ],
     "wednesday": [
       "tensai ouji"
     ],
