@@ -19,8 +19,12 @@
     "Boiling waters approved": "https://drive.google.com/drive/folders/1zB0IHtw5Azamqy8osb_oHdyQBChZ9Wn6",
     "Boiling waters api": "https://dating.boilingwaters.rightvalley.com/graphql",
     "certificate": "https://letsencrypt.org/certs/lets-encrypt-r3.pem",
-    "who is this": "https://twitter.com/_doswpfvousaime"
+    "who is this": "https://twitter.com/_doswpfvousaime",
+    "static json api": "jsongist.io"
   },
+  "songs": [
+    "again and again - hours"
+  ],
   "movie": [
     "when we were kings",
     "tenet",
