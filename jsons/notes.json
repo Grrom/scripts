@@ -4,17 +4,22 @@
     "the pragmatic programmer",
     "refactoring",
     "clean architecture",
-    "lord of the flies",
-    "crime and punishment",
     "the dip",
     "the power of habit",
-    "so good they can't ignore you",
-    "dokkodo"
+    "dokkodo",
+    "realm of hungry ghosts",
+    "the rise of theodore roosevelt",
+    "atomic habits"
   ],
   "sapsap": {
-    "userName": "Student23",
+    "userName": "Student 23",
     "password": "@Ahc00023"
   },
+  "group capstone": [
+    "estrella",
+    "gerald",
+    "cruzette"
+  ],
   "links": {
     "Boiling waters psd": "https://drive.google.com/drive/folders/1xlttNLeBLVcN5abEO9zYMbH6O35k4WV2",
     "Boiling waters jpeg": "https://drive.google.com/drive/folders/1I7F0ryrBdXzTmEz3Ou7x1OKGg39qSNoP",
@@ -27,7 +32,8 @@
     "static json api": "jsongist.io"
   },
   "songs": [
-    "again and again - hours"
+    "again and again - hours",
+    "Eli noir - my own way"
   ],
   "movie": [
     "when we were kings",
