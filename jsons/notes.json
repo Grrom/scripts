@@ -39,26 +39,39 @@
     "when we were kings",
     "tenet",
     "brave heart",
-    "the octopus teacher"
+    "the octopus teacher",
+    "rocky"
   ],
   "AnimeSchedule": {
-    "binge": "gintama",
     "sunday": [
-      "sono bisque doll wa koi wo suru"
+      "kaguya"
     ],
     "monday": [
-      "AOT"
+      "Kunoichi tsubaki"
     ],
     "tuesday": [
-      "sabikui bisco"
+      "honsuki"
     ],
     "wednesday": [],
-    "thursday": [],
-    "friday": [
-      "Ousama Ranking"
+    "thursday": [
+      "Koumei"
     ],
-    "saturday": [
-      "takagi san"
-    ]
+    "friday": [
+      "skeleton"
+    ],
+    "saturday": []
+  },
+  "manhwaSchedule": {
+    "sunday": [],
+    "monday": [],
+    "tuesday": [
+      "Omnicient Reader"
+    ],
+    "wednesday": [
+      "pendragon"
+    ],
+    "thursday": [],
+    "friday": [],
+    "saturday": []
   }
 }
