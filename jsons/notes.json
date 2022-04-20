@@ -57,21 +57,34 @@
       "Koumei"
     ],
     "friday": [
-      "skeleton"
+      "skeleton isekai",
+      "summertime render"
     ],
-    "saturday": []
+    "saturday": [
+      "aharen"
+    ]
   },
   "manhwaSchedule": {
     "sunday": [],
     "monday": [],
     "tuesday": [
-      "Omnicient Reader"
+      "Omnicient Reader",
+      "begining after the end",
+      "undefeated swordsman",
+      "great mage returns"
     ],
     "wednesday": [
-      "pendragon"
+      "pendragon",
+      "gluttony",
+      "sword king",
+      "is this hero for real"
     ],
-    "thursday": [],
-    "friday": [],
+    "thursday": [
+      "Overgeared"
+    ],
+    "friday": [
+      "koi wa sekai seifuku no ato de"
+    ],
     "saturday": []
   }
 }
