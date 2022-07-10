@@ -9,7 +9,17 @@
     "dokkodo",
     "realm of hungry ghosts",
     "the rise of theodore roosevelt",
-    "atomic habits"
+    "atomic habits",
+    "Blue ocean strategy",
+    "The art of impossible",
+    "10 tips for life cats"
+  ],
+  "x": [
+    "num of queries",
+    "number of days not answered",
+    "number of days answered",
+    "observation dated",
+    "thre is no age"
   ],
   "sapsap": {
     "userName": "Student 23",
@@ -42,6 +52,14 @@
     "who is this": "https://twitter.com/_doswpfvousaime",
     "static json api": "jsongist.io"
   },
+  "mr paws": {
+    "note": "hehe",
+    "designs psd": "https://drive.google.com/drive/folders/1ugT3ozNgi4JnxQr8U4m2fvk_qUmbGVM8"
+  },
+  "HO": [
+    "fix the firebase stuff",
+    "fix requesting for location."
+  ],
   "songs": [
     "again and again - hours",
     "Eli noir - my own way"
@@ -76,28 +94,5 @@
       "aharen",
       "kaguya"
     ]
-  },
-  "manhwaSchedule": {
-    "sunday": [],
-    "monday": [],
-    "tuesday": [
-      "Omnicient Reader",
-      "begining after the end",
-      "undefeated swordsman",
-      "great mage returns"
-    ],
-    "wednesday": [
-      "pendragon",
-      "gluttony",
-      "sword king",
-      "is this hero for real"
-    ],
-    "thursday": [
-      "Overgeared"
-    ],
-    "friday": [
-      "koi wa sekai seifuku no ato de"
-    ],
-    "saturday": []
   }
 }
