@@ -1,5 +1,6 @@
 {
   "books": [
+    "the one thing",
     "clean code",
     "the pragmatic programmer",
     "refactoring",
@@ -12,14 +13,8 @@
     "atomic habits",
     "Blue ocean strategy",
     "The art of impossible",
-    "10 tips for life cats"
-  ],
-  "x": [
-    "num of queries",
-    "number of days not answered",
-    "number of days answered",
-    "observation dated",
-    "thre is no age"
+    "10 tips for life cats",
+    "the way of the superior man"
   ],
   "sapsap": {
     "userName": "Student 23",
@@ -53,13 +48,8 @@
     "static json api": "jsongist.io"
   },
   "mr paws": {
-    "note": "hehe",
     "designs psd": "https://drive.google.com/drive/folders/1ugT3ozNgi4JnxQr8U4m2fvk_qUmbGVM8"
   },
-  "HO": [
-    "fix the firebase stuff",
-    "fix requesting for location."
-  ],
   "songs": [
     "again and again - hours",
     "Eli noir - my own way"
