@@ -2,7 +2,6 @@
 
 # ALIASES
 #alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME" #I'm no longer maintaining my dotfiles
-alias vim="/home/jerome/.local/bin/vim"
 alias x="exit"
 alias xbind="killall xbindkeys; xbindkeys"
 

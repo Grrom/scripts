@@ -4,7 +4,6 @@ alias bashrc="vim ~/.bashrc"
 alias mainrc="vim $MY_SCRIPTS/main.sh"
 alias note="vim $MY_SCRIPTS/jsons/notes.json"
 
-alias nrc="cd $HOME/.config/nvim/; vim ." 
 alias src="cd $MY_SCRIPTS && vim main.sh"
 alias rrc="cd $MY_SCRIPTS/rofi_menus; vim ."
 
