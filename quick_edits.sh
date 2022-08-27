@@ -1,12 +1,11 @@
 #!/bin/bash
 
-alias bashrc="lvim ~/.bashrc"
-alias mainrc="lvim $MY_SCRIPTS/main.sh"
-alias note="lvim $MY_SCRIPTS/jsons/notes.json"
+alias bashrc="vim ~/.bashrc"
+alias mainrc="vim $MY_SCRIPTS/main.sh"
+alias note="vim $MY_SCRIPTS/jsons/notes.json"
 
-alias nrc="cd $HOME/.config/nvim/; lvim ." 
-alias lrc="cd $HOME/.config/lvim/; lvim ."
-alias src="cd $MY_SCRIPTS && lvim main.sh"
-alias rrc="cd $MY_SCRIPTS/rofi_menus; lvim ."
+alias nrc="cd $HOME/.config/nvim/; vim ." 
+alias src="cd $MY_SCRIPTS && vim main.sh"
+alias rrc="cd $MY_SCRIPTS/rofi_menus; vim ."
 
 

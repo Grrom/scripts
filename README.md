@@ -7,7 +7,7 @@
 **Easily Replaceable Dependencies**
 - notify-send    
 - ffmpeg    
-- lvim    
+- vim    
 
 
 _**How to use**_ 
