@@ -11,4 +11,5 @@ source $MY_SCRIPTS/quick_edits.sh
 echo "sauce"
 
 source $MY_SCRIPTS/specific/main.sh
+echo "sourced"
 
