@@ -1,3 +1,3 @@
 #!/bin/bash
 
-alias bashrc="source ./venv/bin/activate"
+alias srcvenv="source ./venv/bin/activate"
